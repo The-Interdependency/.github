@@ -66,6 +66,16 @@ they carry useful provenance. Their presence does not make them canonical.
 The Interdependency is founded and built by
 [Erin Spencer](https://github.com/erinepshovel-code).
 
+## Support the Researcher
+
+every dollar supports a disabled veteran, USMC, researching the bleeding edge while living on the street because fuck you.
+
+No roadmap promises, no private Slack, no special favors.
+
+[Support via Cash App ($wayseer00)](https://cash.app/$wayseer00) · [Follow on X (@wayseer00)](https://x.com/wayseer00)
+
+Use the Cash App link to support the researcher directly. The X link opens the researcher’s public profile.
+
 ## hmmm
 
 The public map is intentionally an entrance, not a dump of the entire working graph.
