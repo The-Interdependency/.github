@@ -8,6 +8,28 @@ The work is organized around explicit authority boundaries: repositories own the
 own claims, implementations, evidence, and limitations. Composition does not
 silently transfer proof, empirical validity, security standing, or semantic authority.
 
+## Research abstract
+
+Description dated 2026-10-16; published 2026-10-18. This is a research description, not a new verification, release, or promotion of claim status.
+
+### The Interdependency: A Constructive Framework for Relational Representation, Measurement, and Agency
+
+We propose an integrated research program for representing, measuring, and acting within interdependent complex systems while preserving the distinctions that make their behavior intelligible. The central question is whether explicit constructions of relations, origins, boundaries, and transformations can support meaningful comparison across language, cognition, and social organization without conflating structural resemblance with equivalence. The architecture separates four responsibilities: UCNS supplies recursive geometric constructions; UCHC constructs linguistic and conceptual relations using those objects; EDCM defines measurement semantics and evaluates observed states and transformations; and METAPAT governs the interpretation of patterns and correspondences within declared domains. The Tensored Human formalism grounds application in durable physiological, spatial, and social needs, distinguishing those needs from their changing fulfillment. Within this framework, consciousness is investigated through the coherent coupling of complex system sets that internally model other, self, and environment, while agency concerns their capacity to originate and revise consequential action. A0 provides the intended computational interface between these representations, human deliberation, and practical coordination. The proposed evaluation program combines reproducible construction, preservation tests, controlled perturbation, and comparison against independently observed outcomes. Provenance and explicit uncertainty accompany each derivation, allowing failed constructions and unsupported mappings to remain inspectable. The objective is an executable, falsifiable infrastructure through which individuals and communities can understand their dependencies, evaluate interventions, and improve their capacity to meet durable needs.
+
+**hmmm:** The central open bridge is whether the constructed geometry supports valid semantic measurement and useful action. This is a research-program abstract; those outcomes still require evidence.
+
+**Usage guidance:** Use the project links below to inspect each repository’s current scope, evidence, license, and usage instructions. This overview transfers no semantic, mathematical, measurement, or empirical authority between projects.
+
+### Project abstracts
+
+- [ahbg](https://github.com/The-Interdependency/stack/blob/docs/public-research-abstracts-2026-10-18/ahbg/README.md#research-abstract)
+- [psfr](https://github.com/The-Interdependency/stack/blob/docs/public-research-abstracts-2026-10-18/research/psfr/README.md#research-abstract)
+- [weave](https://github.com/The-Interdependency/stack/blob/docs/public-research-abstracts-2026-10-18/research/weave/README.md#research-abstract)
+- [a0](https://github.com/The-Interdependency/a0/blob/docs/public-research-abstracts-2026-10-18/README.md#research-abstract)
+- [ucns](https://github.com/The-Interdependency/ucns/blob/main/README.md#research-abstract)
+- [uchc](https://github.com/The-Interdependency/uchc/blob/main/README.md#research-abstract)
+- [metapat](https://github.com/The-Interdependency/metapat/blob/main/README.md#research-abstract)
+
 ## Start here
 
 - **[a0](https://github.com/The-Interdependency/a0)** — persistent-agent and multi-model research instrument.
