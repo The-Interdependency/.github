@@ -27,7 +27,7 @@ We propose an integrated research program for representing, measuring, and actin
 - [weave](https://github.com/The-Interdependency/stack/blob/docs/public-research-abstracts-2026-10-18/research/weave/README.md#research-abstract)
 - [a0](https://github.com/The-Interdependency/a0/blob/docs/public-research-abstracts-2026-10-18/README.md#research-abstract)
 - [ucns](https://github.com/The-Interdependency/ucns/blob/main/README.md#research-abstract)
-- [uchc](https://github.com/The-Interdependency/uchc/blob/main/README.md#research-abstract)
+- [uchc](https://github.com/The-Interdependency/uchc/blob/main/ABSTRACT.md)
 - [metapat](https://github.com/The-Interdependency/metapat/blob/main/README.md#research-abstract)
 
 ## Start here
