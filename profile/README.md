@@ -8,6 +8,21 @@ The work is organized around explicit authority boundaries: repositories own the
 own claims, implementations, evidence, and limitations. Composition does not
 silently transfer proof, empirical validity, security standing, or semantic authority.
 
+## Current delivery focus
+
+**[Stack](https://github.com/The-Interdependency/stack) is the priority.** Work proceeds
+through UCNS → UCHC → EDCM → Weave, with one active research area. Deliver a
+reproducible result or record its blocker before selecting the next ready task.
+Keep each research PR within one
+area; identify cross-area prerequisites explicitly rather than opening parallel work.
+
+To inspect the present executable construction, start with Stack's
+[Unicode and recursive-object demonstration](https://github.com/The-Interdependency/stack/blob/8b14858c0608b84616c3e7a7c559aa5c5fb8b6c9/research/english-gonol/docs/unicode-bit-radius.md).
+It preserves exact text through native UCNS objects and declared recursive
+placements. Automatic bearing selection and demonstrated inference usefulness
+remain unresolved. The rest of this profile is a map of the research, not a
+promise to advance every project simultaneously.
+
 ## Research abstract
 
 Description dated 2026-10-16; published 2026-10-18. This is a research description, not a new verification, release, or promotion of claim status.
@@ -32,9 +47,9 @@ We propose an integrated research program for representing, measuring, and actin
 
 ## Start here
 
-- **[a0](https://github.com/The-Interdependency/a0)** — persistent-agent and multi-model research instrument.
-- **[skill-lib](https://github.com/The-Interdependency/skill-lib)** — reusable agent skills and MSDMD native-first metadata tooling.
 - **[stack](https://github.com/The-Interdependency/stack)** — composition forge for pinned repositories, cross-system research, falsification, and project graduation.
+- **[skill-lib](https://github.com/The-Interdependency/skill-lib)** — reusable agent skills and MSDMD native-first metadata tooling.
+- **[a0](https://github.com/The-Interdependency/a0)** — persistent-agent and multi-model research instrument.
 - **[UCNS](https://github.com/The-Interdependency/ucns)** — exact geometric constructions, including Public Gonol carriers and framed Möbius motion.
 - **[EDCM](https://github.com/The-Interdependency/edcm)** — measurement and evaluation research with provenance-preserving result contracts.
 - **[EPAC](https://github.com/The-Interdependency/epac)** — elementary/particle-scale energy-and-arity coupling research with explicit falsification boundaries.
@@ -90,9 +105,15 @@ The Interdependency is founded and built by
 
 ## Support the Researcher
 
-every dollar supports a disabled veteran, USMC, researching the bleeding edge while living on the street because fuck you.
+I'm asking for money to keep this research running. Not for a promise about what it will become.
 
-No roadmap promises, no private Slack, no special favors.
+I am Erin Spencer, a disabled USMC veteran building The Interdependency while
+living outdoors in Berkeley. Support pays for development equipment, compute,
+power, transport, and community work. The record is public: code, reproducible
+checks, unresolved results, and the builder journal.
+
+[Read the funding ask and public totals](https://interdependentway.org/support/).
+I'm not offering equity, a roadmap, or governance.
 
 [Support via Cash App ($wayseer00)](https://cash.app/$wayseer00) · [Follow on X (@wayseer00)](https://x.com/wayseer00)
 
